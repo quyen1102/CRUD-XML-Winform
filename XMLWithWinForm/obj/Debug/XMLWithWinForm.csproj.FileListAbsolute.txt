@@ -1,0 +1,10 @@
+E:\LEARNING\Kì 7\TichHop\XMLWithWinForm\XMLWithWinForm\bin\Debug\XMLWithWinForm.exe.config
+E:\LEARNING\Kì 7\TichHop\XMLWithWinForm\XMLWithWinForm\bin\Debug\XMLWithWinForm.exe
+E:\LEARNING\Kì 7\TichHop\XMLWithWinForm\XMLWithWinForm\bin\Debug\XMLWithWinForm.pdb
+E:\LEARNING\Kì 7\TichHop\XMLWithWinForm\XMLWithWinForm\obj\Debug\XMLWithWinForm.csproj.AssemblyReference.cache
+E:\LEARNING\Kì 7\TichHop\XMLWithWinForm\XMLWithWinForm\obj\Debug\XMLWithWinForm.Form1.resources
+E:\LEARNING\Kì 7\TichHop\XMLWithWinForm\XMLWithWinForm\obj\Debug\XMLWithWinForm.Properties.Resources.resources
+E:\LEARNING\Kì 7\TichHop\XMLWithWinForm\XMLWithWinForm\obj\Debug\XMLWithWinForm.csproj.GenerateResource.cache
+E:\LEARNING\Kì 7\TichHop\XMLWithWinForm\XMLWithWinForm\obj\Debug\XMLWithWinForm.csproj.CoreCompileInputs.cache
+E:\LEARNING\Kì 7\TichHop\XMLWithWinForm\XMLWithWinForm\obj\Debug\XMLWithWinForm.exe
+E:\LEARNING\Kì 7\TichHop\XMLWithWinForm\XMLWithWinForm\obj\Debug\XMLWithWinForm.pdb

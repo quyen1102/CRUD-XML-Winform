@@ -1,0 +1,27 @@
+<course>
+  <student id="S01">
+    <name>Tran Thai Quyen</name>
+    <age>21</age>
+    <city>Hai Duong</city>
+  </student>
+  <student id="S02">
+    <name>Tran Van Anh Em Xa Hoi</name>
+    <age>25</age>
+    <city>Ha Noi</city>
+  </student>
+  <student id="S04">
+    <name>Dinh Bach Duong</name>
+    <age>22</age>
+    <city>Nam Dinh</city>
+  </student>
+  <student id="S01">
+    <name>Pham Nhu Quynh</name>
+    <age>21</age>
+    <city>Hai Duong</city>
+  </student>
+  <student id="S01">
+    <name>Tran Thai Quyen</name>
+    <age>21</age>
+    <city>Hai Duong</city>
+  </student>
+</course>
